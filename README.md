@@ -1,5 +1,4 @@
 # Tkinter-Calculator
 A simple calculator which performs the four basic operations, built using the tkinter module for GUI.
 
-![This is how the Calculator looks
-](\sample.png)
+![Sample.png](\sample.png)
